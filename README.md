@@ -1,7 +1,10 @@
 # Timer Application
 
-![Timer Application](https://imageupload.io/BZ3CV2Q87CMWVFm)
-
+<div style="text-align: center;">
+  <a target="_blank" href="https://imageupload.io/BZ3CV2Q87CMWVFm">
+    <img src="https://imageupload.io/ib/wOZrQ4NFnYbVZcf_1698591717.png" alt="Screenshot 2023-10-29 202804.png"/>
+  </a>
+</div>
 ## Description
 
 The Timer Application is a productivity tool designed to help you manage your time effectively and boost your productivity. It allows you to track the time spent on tasks, projects, or any activity. The application features a user-friendly interface and provides essential functionalities to improve your efficiency.
