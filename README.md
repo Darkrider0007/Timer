@@ -1,6 +1,6 @@
 # Timer Application
 
-![Timer Application](link_to_your_application_screenshot_or_logo)
+![Timer Application](https://imageupload.io/BZ3CV2Q87CMWVFm)
 
 ## Description
 
