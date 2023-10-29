@@ -35,5 +35,5 @@ The Timer Application is a productivity tool designed to help you manage your ti
 
 ## License
 
-This project is licensed under the [MIT License](link_to_your_license_file) - see the [LICENSE.md](link_to_your_license_file) file for details.
+This project is licensed under the [MIT License](https://tlo.mit.edu/learn-about-intellectual-property/software-and-open-source-licensing/open-source-licensing) - see the [LICENSE](https://github.com/Darkrider0007/Timer/blob/main/LICENSE) file for details.
 
